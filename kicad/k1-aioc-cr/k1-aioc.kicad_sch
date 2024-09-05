@@ -11086,7 +11086,7 @@
 				)
 			)
 		)
-		(property "Value" "GT-USB-7010ASV"
+		(property "Value" "TYPE-C-31-M-12"
 			(at 36.83 27.94 0)
 			(effects
 				(font
@@ -11094,7 +11094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 40.64 48.26 0)
 			(effects
 				(font

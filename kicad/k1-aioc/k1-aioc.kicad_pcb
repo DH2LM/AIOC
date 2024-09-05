@@ -11289,7 +11289,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Symbol:OSHW-Logo2_9.8x8mm_SilkScreen"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
